@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Aya",
+    "gender": "Female",
+    "birthday": "2003-06-27",
+    "height": "169",
+    "weight": "60",
+    "employment": "Student"
+  },
+  {
+    "id": "2",
+    "name": "Emad",
+    "gender": "Male",
+    "birthday": "2001-02-20",
+    "height": "165",
+    "weight": "55",
+    "employment": "Doctor"
+  }
+]

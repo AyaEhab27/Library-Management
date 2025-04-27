@@ -1,0 +1,38 @@
+[
+  {
+    "id": "B001",
+    "title": "The Days",
+    "publication_date": "1929-01-01",
+    "author": " Taha Hussein",
+    "genre": "Autobiography",
+    "publisher": "Dar Al-Maarif",
+    "language": "Arabic"
+  },
+  {
+    "id": "B002",
+    "title": "To Kill a Mockingbird",
+    "publication_date": "1960-07-11",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publisher": "J.B. Lippincott \u0026 Co.",
+    "language": "English"
+  },
+  {
+    "id": "B003",
+    "title": "Season of Migration to the North ",
+    "publication_date": "1966-01-01",
+    "author": "Tayeb Salih",
+    "genre": "Novel",
+    "publisher": "Dar Al-Awda",
+    "language": "Arabic"
+  },
+  {
+    "id": "B004",
+    "title": "1984",
+    "publication_date": "1949-06-08",
+    "author": "George Orwell",
+    "genre": "Dystopian, Political Fiction",
+    "publisher": "Secker \u0026 Warburg",
+    "language": "English"
+  }
+]
