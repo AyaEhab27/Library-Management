@@ -1,7 +1,9 @@
-# 📚 Library Management System in Go
+## 📚 Library Management System in Go
 
 ## 🌟 Project Overview
 A robust, budget-friendly library management solution developed in Go to help small libraries transition to digital services post-COVID-19. Features dual-server architecture with automatic failover and JSON-based data storage.
+
+
 
 ## ✨ Key Features
 
@@ -20,17 +22,7 @@ A robust, budget-friendly library management solution developed in Go to help sm
 | Remove Readers | ❌   | Delete reader records                |
 | Search Readers | 🔎   | Find readers by ID or name           |
 
-### ⚙️ System Architecture
-```sh
-📦library
-├── 📂client       # CLI interface
-├── 📂server       # Dual-server implementation
-├── 📂models       # Data structures
-└── 📂data         # JSON storage
-
-
 ## 🔍 Core Features
-
 ### 📖 Book Management
 - **Data Fields**: ID, Title, Author, Publication Date, Genre, Publisher, Language  
 - **Operations**:
@@ -58,8 +50,6 @@ A robust, budget-friendly library management solution developed in Go to help sm
 - 🔄 Automatic server detection  
 - ✅ Intuitive workflows
 
----
-
 ## 🚀 Getting Started
 
 ```bash
@@ -72,13 +62,14 @@ go run main.go
 # Access web interfaces:
 # Main:    http://localhost:8080
 # Backup:  http://localhost:8081
+```
+
+---
 
 ## 🛠 Technical Specs
 - **Language**: Go 1.16+  
 - **Storage**: JSON files (No database required)  
-- **Ports**: 8080 (Main), 8081 (Backup)  
-
----
+- **Ports**: 8080 (Main), 8081 (Backup)
 
 ## 🌟 Future Roadmap
 - 🌐 Web patron portal  
@@ -92,4 +83,11 @@ go run main.go
 - 💰 **Cost-effective** - No database expenses  
 - 🛡 **Reliable** - Automatic failover protection  
 - 📱 **Modern** - Full digital transformation  
-- 👩‍💻 **User-friendly** - Simple CLI and web interfaces  
+- 👩‍💻 **User-friendly** - Simple CLI and web interfaces          
+
+
+
+
+
+
+
