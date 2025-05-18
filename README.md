@@ -71,19 +71,13 @@ go run main.go
 - **Storage**: JSON files (No database required)  
 - **Ports**: 8080 (Main), 8081 (Backup)
 
-## 🌟 Future Roadmap
-- 🌐 Web patron portal  
-- 🔖 Book reservation system  
-- ⏳ Overdue fine calculations  
-- 🔎 Advanced search filters  
-
----
-
-## 💡 Why This Solution?
-- 💰 **Cost-effective** - No database expenses  
-- 🛡 **Reliable** - Automatic failover protection  
-- 📱 **Modern** - Full digital transformation  
-- 👩‍💻 **User-friendly** - Simple CLI and web interfaces          
+### ⚙️ System Architecture
+```sh
+📦library
+├── 📂client       # CLI interface
+├── 📂server       # Dual-server implementation
+├── 📂models       # Data structures
+└── 📂data         # JSON storage
 
 
 
